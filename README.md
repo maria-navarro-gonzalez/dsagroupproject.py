@@ -3,9 +3,9 @@ Student Management System
 This project is a student management system developed in Python for CSCI 046: Data Structures and Algorithms at Claremont McKenna College (Spring 2025). The system demonstrates how multiple data structures—namely hash tables, linked lists, and arrays—can be used together to efficiently manage student records.
 
 ## Team Members
+- Roman Sycz 
 - Maria Navarro Gonzalez  
-- Chris Kim  
-- Roman Sycz  
+- Chris Kim   
 - Daniel Wu  
 
 ## Project Overview
