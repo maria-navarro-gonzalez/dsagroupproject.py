@@ -1,0 +1,81 @@
+student_id,name,gpa,class_year,major,department
+1001,Alice Johnson,3.2,Freshman,Computer Science,Mathematical Studies
+1002,Bob Smith,4.5,Senior,Mathematics,Mathematical Studies
+1003,Charlie Brown,3.1,Graduate,Physics,Natural Sciences
+1004,Dana White,2.9,Junior,Psychology,Social Sciences
+1005,Emma Davis,3.8,Sophomore,English,Humanities
+1006,Frank Miller,3.5,Junior,Computer Science,Mathematical Studies
+1007,Grace Wilson,3.9,Senior,Physics,Natural Sciences
+1008,Henry Taylor,3.4,Freshman,Mathematics,Mathematical Studies
+1009,Ivy Anderson,3.7,Junior,Psychology,Social Sciences
+1010,Jack Robinson,3.6,Sophomore,English,Humanities
+1011,Kate Martinez,3.3,Freshman,Computer Science,Mathematical Studies
+1012,Liam Thompson,3.8,Senior,Physics,Natural Sciences
+1013,Mia Garcia,3.5,Junior,Mathematics,Mathematical Studies
+1014,Noah Lee,3.9,Sophomore,Psychology,Social Sciences
+1015,Olivia Clark,3.4,Freshman,English,Humanities
+1016,Peter Wright,3.7,Senior,Computer Science,Mathematical Studies
+1017,Quinn Hall,3.6,Junior,Physics,Natural Sciences
+1018,Rachel Young,3.3,Sophomore,Mathematics,Mathematical Studies
+1019,Sam Turner,3.8,Freshman,Psychology,Social Sciences
+1020,Tina Moore,3.5,Senior,English,Humanities
+1021,Una Lewis,3.9,Junior,Computer Science,Mathematical Studies
+1022,Vince King,3.4,Sophomore,Physics,Natural Sciences
+1023,Wendy Scott,3.7,Freshman,Mathematics,Mathematical Studies
+1024,Xavier Green,3.6,Senior,Psychology,Social Sciences
+1025,Yara Adams,3.3,Junior,English,Humanities
+1026,Zack Baker,3.8,Sophomore,Computer Science,Mathematical Studies
+1027,Alice Cooper,3.5,Freshman,Physics,Natural Sciences
+1028,Bob Dylan,3.9,Senior,Mathematics,Mathematical Studies
+1029,Charlie Parker,3.4,Junior,Psychology,Social Sciences
+1030,Dana Scully,3.7,Sophomore,English,Humanities
+1031,Emma Watson,3.6,Freshman,Computer Science,Mathematical Studies
+1032,Frank Sinatra,3.3,Senior,Physics,Natural Sciences
+1033,Grace Kelly,3.8,Junior,Mathematics,Mathematical Studies
+1034,Henry Ford,3.5,Sophomore,Psychology,Social Sciences
+1035,Ivy League,3.9,Freshman,English,Humanities
+1036,Jack Sparrow,3.4,Senior,Computer Science,Mathematical Studies
+1037,Kate Winslet,3.7,Junior,Physics,Natural Sciences
+1038,Liam Neeson,3.6,Sophomore,Mathematics,Mathematical Studies
+1039,Mia Farrow,3.3,Freshman,Psychology,Social Sciences
+1040,Noah Webster,3.8,Senior,English,Humanities
+1041,Olivia Newton,3.5,Junior,Computer Science,Mathematical Studies
+1042,Peter Pan,3.9,Sophomore,Physics,Natural Sciences
+1043,Quinn Fabray,3.4,Freshman,Mathematics,Mathematical Studies
+1044,Rachel Green,3.7,Senior,Psychology,Social Sciences
+1045,Sam Malone,3.6,Junior,English,Humanities
+1046,Tina Fey,3.3,Sophomore,Computer Science,Mathematical Studies
+1047,Una Stubbs,3.8,Freshman,Physics,Natural Sciences
+1048,Vince Vaughn,3.5,Senior,Mathematics,Mathematical Studies
+1049,Wendy Darling,3.9,Junior,Psychology,Social Sciences
+1050,Xavier Riddle,3.4,Sophomore,English,Humanities
+1051,Yara Shahidi,3.7,Freshman,Computer Science,Mathematical Studies
+1052,Zack Morris,3.6,Senior,Physics,Natural Sciences
+1053,Alice Wonder,3.3,Junior,Mathematics,Mathematical Studies
+1054,Bob Marley,3.8,Sophomore,Psychology,Social Sciences
+1055,Charlie Chaplin,3.5,Freshman,English,Humanities
+1056,Dana Scully,3.9,Senior,Computer Science,Mathematical Studies
+1057,Emma Stone,3.4,Junior,Physics,Natural Sciences
+1058,Frank Ocean,3.7,Sophomore,Mathematics,Mathematical Studies
+1059,Grace Hopper,3.6,Freshman,Psychology,Social Sciences
+1060,Henry VIII,3.3,Senior,English,Humanities
+1061,Ivy Compton,3.8,Junior,Computer Science,Mathematical Studies
+1062,Jack Frost,3.5,Sophomore,Physics,Natural Sciences
+1063,Kate Bush,3.9,Freshman,Mathematics,Mathematical Studies
+1064,Liam Payne,3.4,Senior,Psychology,Social Sciences
+1065,Mia Khalifa,3.7,Junior,English,Humanities
+1066,Noah Centineo,3.6,Sophomore,Computer Science,Mathematical Studies
+1067,Olivia Wilde,3.3,Freshman,Physics,Natural Sciences
+1068,Peter Quill,3.8,Senior,Mathematics,Mathematical Studies
+1069,Quinn Hughes,3.5,Junior,Psychology,Social Sciences
+1070,Rachel McAdams,3.9,Sophomore,English,Humanities
+1071,Sam Smith,3.4,Freshman,Computer Science,Mathematical Studies
+1072,Tina Turner,3.7,Senior,Physics,Natural Sciences
+1073,Una Healy,3.6,Junior,Mathematics,Mathematical Studies
+1074,Vince Carter,3.3,Sophomore,Psychology,Social Sciences
+1075,Wendy Williams,3.8,Freshman,English,Humanities
+1076,Xavier Woods,3.5,Senior,Computer Science,Mathematical Studies
+1077,Yara Greyjoy,3.9,Junior,Physics,Natural Sciences
+1078,Zack Snyder,3.4,Sophomore,Mathematics,Mathematical Studies
+1079,Alice Eve,3.7,Freshman,Psychology,Social Sciences
+1080,Bob Ross,3.6,Senior,English,Humanities 
